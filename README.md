@@ -75,6 +75,7 @@
 
 
     🛠️ How to Run Locally
+    [👉 Download Fine-Tuned MediBot Model Here](https://github.com/your-username/Medibot/releases)
     1. Clone the Repository
     bash
     Copy
