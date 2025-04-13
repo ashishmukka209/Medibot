@@ -165,7 +165,7 @@ VALID_TOKEN = "medibot_secret_token_123"
 # 🔔 Telegram Alert Setup
 TELEGRAM_BOT_TOKEN = "****"   # 👈 Replace
 TELEGRAM_CHAT_ID = "*****"       # 👈 Replace
-TELEGRAM_BUTTON_URL = "https://t.me/ash1102"  # 👈 Replace
+TELEGRAM_BUTTON_URL = "https://t.me/username"  # 👈 Replace
 
 # 🚑 Initialize FastAPI App
 app = FastAPI()
